@@ -18,4 +18,4 @@ I write ***clean, maintainable code*** and aim to ***deliver projects on time***
 ***Why Work With Me***:<br>
 I deliver reliable, easy-to-use solutions and work carefully to meet your project needs. I aim to help your ideas become a success.
 
-Looking forward to working together and bringing your projects to life.
+**Looking forward to working together and bringing your projects to life.**
