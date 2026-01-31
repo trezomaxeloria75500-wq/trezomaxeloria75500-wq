@@ -14,6 +14,7 @@ I write ***clean, maintainable code*** and aim to ***deliver projects on time***
 ![Shopify](https://img.shields.io/badge/-Shopify-95BF47?logo=shopify&logoColor=white&style=flat-square)&nbsp;&nbsp;
 ![API & Software Architecture](https://img.shields.io/badge/-API%20%26%20Software%20Architecture-0078D7?logo=swagger&logoColor=white&style=flat-square)
 
+
 ***Why Work With Me***:<br>
 I deliver reliable, easy-to-use solutions and work carefully to meet your project needs. I aim to help your ideas become a success.
 
