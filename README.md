@@ -1,3 +1,6 @@
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
+<br>
+
 ## Full-Stack & Mobile Developer | Python, Flutter, Machine Learning
 
 I am a ***full-stack and mobile developer*** with experience creating web, mobile, and desktop applications. My work focuses on ***reliable, easy-to-use solutions*** using ***Python, Flutter, and practical machine learning***. I have also worked with ***Qt, MFC, C#, Go, the MERN stack, and e-commerce platforms like Shopify***.
