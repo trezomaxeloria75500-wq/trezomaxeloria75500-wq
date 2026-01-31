@@ -1,3 +1,4 @@
+
 ## Full-Stack & Mobile Developer | Python, Flutter, Machine Learning
 
 I am a ***full-stack and mobile developer*** with experience creating web, mobile, and desktop applications. My work focuses on ***reliable, easy-to-use solutions*** using ***Python, Flutter, and practical machine learning***. I have also worked with ***Qt, MFC, C#, Go, the MERN stack, and e-commerce platforms like Shopify***.
@@ -7,7 +8,6 @@ I write ***clean, maintainable code*** and aim to ***deliver projects on time***
 
 ![Python](https://img.shields.io/badge/Python-(Django,_Flask,_FastAPI)-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square) &nbsp;&nbsp;
-
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square) &nbsp;&nbsp; 
 ![Front-End](https://img.shields.io/badge/-React,_HTML,_CSS,_JavaScript-61DAFB?logo=react&logoColor=white&style=flat-square) &nbsp;&nbsp; 
 ![Desktop](https://img.shields.io/badge/-Qt,_MFC,_C%23-007ACC?logo=visual-studio&logoColor=white&style=flat-square) &nbsp;&nbsp;
