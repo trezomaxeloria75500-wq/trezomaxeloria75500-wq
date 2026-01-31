@@ -1,3 +1,4 @@
+
 ## Full-Stack & Mobile Developer | Python, Flutter, Machine Learning
 
 I am a ***full-stack and mobile developer*** with experience creating web, mobile, and desktop applications. My work focuses on ***reliable, easy-to-use solutions*** using ***Python, Flutter, and practical machine learning***. I have also worked with ***Qt, MFC, C#, Go, the MERN stack, and e-commerce platforms like Shopify***.
